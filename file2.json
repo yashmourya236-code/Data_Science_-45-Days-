@@ -1,27 +1,27 @@
 [
     {
         "name": "dheeraj",
-        "roll no": null,
+        "roll no": 23,
         "marks": null
     },
     {
         "name": "kunal",
-        "roll no": null,
+        "roll no": 54,
         "marks":20
     },
     {
         "name": "abhishek",
-        "roll no": null,
+        "roll no": 54,
         "marks":30
     },
     {
         "name": "praveen",
-        "roll no": null,
+        "roll no": 73,
         "marks":40
     },
     {
         "name": "anjali",
-        "roll no": null,
+        "roll no": 38,
         "marks":50
     }
 ]
